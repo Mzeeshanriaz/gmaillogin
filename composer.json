@@ -1,0 +1,7 @@
+{
+    "name": "vendor/google-login",
+    "type": "library",
+    "require": {
+        "google/apiclient": "2.0"
+    }
+}
